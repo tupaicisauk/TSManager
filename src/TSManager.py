@@ -38,7 +38,7 @@ APP_VERSION = "1.3.0"
 #   "changelog": "Tambah Auto-Update, Auto-Watch, Log History",
 #   "url": "https://link-ke-TSManager_v1.3.0.exe"
 # }
-UPDATE_JSON_URL = "https://example.com/tsmanager/latest.json"
+UPDATE_JSON_URL = "https://raw.githubusercontent.com/tupaicisauk/TSManager/main/update/latest.json"
 
 # ========= CONFIG & PATHS =========
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
